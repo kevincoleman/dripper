@@ -1,0 +1,25 @@
+{
+  "name": "dripper",
+  "version": "1.0.0",
+  "description": "A little application for helping you remember to water your plants",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kevincoleman/dripper.git"
+  },
+  "author": "kevin.n.coleman@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevincoleman/dripper/issues"
+  },
+  "homepage": "https://github.com/kevincoleman/dripper",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "mongodb": "^2.0.49"
+  }
+}
